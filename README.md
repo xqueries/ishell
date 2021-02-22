@@ -12,4 +12,4 @@ Our final goal should be something where we have can plug in both solution like 
 ### Contributing
 
 We're happy if you contribute!
-Currently this is the very beginning of the project, we'd love to hear things that'd make this better :D
+Currently, this is the very beginning of the project, we'd love to hear things that'd make this better :D
